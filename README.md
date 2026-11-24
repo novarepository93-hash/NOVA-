@@ -102,9 +102,9 @@ Ce dépôt GitHub servira progressivement à centraliser :
 **NOVA**  
 Lomé, Togo.
 
-GitHub : [À COMPLÉTER]  
-Email : [À COMPLÉTER]  
-Website : [À COMPLÉTER]
+GitHub : ......................
+Email : novarepository93@gmail.com
+Website :........................
 
 ---
 
